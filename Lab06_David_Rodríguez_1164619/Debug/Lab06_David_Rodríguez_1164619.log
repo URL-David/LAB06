@@ -1,0 +1,35 @@
+﻿  MyForm.cpp
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\DoubleLinkedList.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(6,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(7,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(8,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(9,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(10,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(11,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(12,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(13,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(317,75): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(317,63): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(317,51): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(317,45): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(322,75): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(322,63): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(322,51): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(322,45): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(329,76): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(329,66): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(330,87): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(330,77): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(355,11): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(423,13): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(457,14): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(491,15): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(525,16): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(559,17): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\MyForm.h(593,18): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  Cuadrilatero.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Lab06_David_Rodríguez_1164619.vcxproj -> C:\Users\darcz\source\repos\Lab06_David_Rodríguez_1164619\Debug\Lab06_David_Rodríguez_1164619.exe
